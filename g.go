@@ -1,3 +1,3 @@
 package g
 
-var version = 1.1
+var version = 1.2
